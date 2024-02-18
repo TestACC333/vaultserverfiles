@@ -76,21 +76,21 @@
   ],
   "Videos": [
     {
-      "BlobName": "real.mp4",
+      "BlobName": "Videos/real.mp4",
       "Title": "CoffeeVault for 2022???",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "u.webm",
+      "BlobName": "Videos/u.webm",
       "Title": "November 15th",
       "Description": "REAL!??!?!",
       "ThumbnailBlobName": "IDK.png",
       "SourceUrl": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
-      "BlobName": "roro.mp4",
+      "BlobName": "Videos/roro.mp4",
       "Title": "shirts and pants",
       "Description": "yes",
       "ThumbnailBlobName": "Profile.png",
